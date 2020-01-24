@@ -1,7 +1,7 @@
 # 大屏数据展示
 
 新型冠状病毒感染肺炎疫情监控大盘
-![冠状病毒](../img/01.png)
+![冠状病毒](https://raw.githubusercontent.com/chenxingxing6/datamarket/master/img/01.png)
 
 ---
 
